@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Esercizio1.Properties
+namespace Esercizio1Interfaccia.Properties
 {
 
 
